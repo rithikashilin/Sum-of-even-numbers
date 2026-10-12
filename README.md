@@ -1,2 +1,21 @@
 # Sum-of-even-numbers
-Write a Python program that asks the user to enter a positive integer n.  Using a loop, calculate the sum of all the even numbers from 1 to n. Also count how many even numbers were found.  
+
+This Python program calculates:
+~The sum of all even numbers up to a user-provided integer n.
+~The count of even numbers within that range.
+
+It demonstrates the use of:
+~while loops
+~Conditional statements (if)
+~Basic arithmetic operations
+
+How It Works
+Step1: The program prompts the user to enter a number (n).
+Step2: It iterates from 1 to n using a while loop.
+Step3: For each number, it checks if the number is even (i % 2 == 0).
+Step4: If even:
+        Adds the number to the running sum.
+        Increments the counter for even numbers.
+Finally, it prints:
+  ~The sum of all even numbers within n.
+  ~The total count of even numbers found.
