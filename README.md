@@ -19,3 +19,9 @@ Step4: If even:
 Finally, it prints:
   ~The sum of all even numbers within n.
   ~The total count of even numbers found.
+
+Sample output:
+
+        Enter a number: 10
+        Sum of even numbers within 10: 30
+        Number of even numbers within 10: 5
